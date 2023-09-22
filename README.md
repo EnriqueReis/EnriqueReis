@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Enrique Reis
 
-- 🔭 Estou em busca do primeiro emprego na área de TI.
-- 🌱 Cursando Sistema da Informação e estuando Front-end.
+- 🔭 Analista de Suporte.
+- 🌱 Cursando Sistema da Informação e estuando Back-end.
 
 ##
 
